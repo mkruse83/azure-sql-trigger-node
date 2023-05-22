@@ -4,6 +4,8 @@ This repository demonstrates how to use the SQL Trigger for Azure Functions for 
 
 NOTE: The Azure SQL Trigger is currently in preview. Any code is subject to change.
 
+This example is based on the Azure examples: https://github.com/Azure/azure-functions-sql-extension/blob/release/trigger/samples/samples-js/ProductsTrigger/index.js
+
 # Setup
 
 The setup has been taken from https://dev.to/willvelida/working-with-azure-sql-triggers-in-azure-functions-1op4
