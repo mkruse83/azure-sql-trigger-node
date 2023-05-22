@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "todoChanges",
+      "type": "sqlTrigger",
+      "direction": "in",
+      "tableName": "dbo.Orders",
+      "connectionStringSetting": "SqlConnectionString"
+    }
+  ]
+}
